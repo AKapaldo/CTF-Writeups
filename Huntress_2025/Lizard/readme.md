@@ -1,4 +1,5 @@
 # 🐞 Lizard.
+
 |Category         |	Author                |
 |-----------------|-----------------------|
 |🐞 Malware       |Adam Rice         |
