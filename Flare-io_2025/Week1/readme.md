@@ -17,7 +17,7 @@ The challenge is revealed first in the Flare Academy Discord, followed by its ap
 Those who discover the hidden flag may use it to unlock the treasure. Also, the flag itself is the discount code you must type into the checkout box.
 Each adventurer may claim only one shirt per weekly quest to keep the balance of the realm intact.
 
-Begin Your Journey: [https://github.com/swordnshield](https://github.com/swordnshield)
+Begin Your Journey: [https://github.com/swordnshield](https://github.com/swordnshield) <br>
 Redeem Your Reward: [https://merch.flare.io/](https://merch.flare.io/)
 
 
@@ -83,8 +83,7 @@ CommitDate: Mon Nov 10 21:20:12 2025 +0000
 
 Noticed the `admin@bobshomepage.net` and visited the site. 
 
-![Bob's Homepage](Page1.png)
-
+<img width="805" height="572" alt="Screenshot 2025-12-01 185935" src="https://github.com/user-attachments/assets/637b6d4c-5183-40f6-b955-e02dcd351cb7" />
 
 I used FFUF to find `.html`, `.php`, and `.txt` files.
 ```bash
@@ -99,7 +98,7 @@ Disallow: /sealed-chamber-deadbeef.html
 
 Visited `bobshomepage.net/sealed-chamber-deadbeef.html`.
 
-![Sealed Chamber Page](Page2.png)
+<img width="704" height="870" alt="Screenshot 2025-12-01 190130" src="https://github.com/user-attachments/assets/49b0b028-093f-4c54-9bec-bee293f3fed0" />
 
 Found an image of a D20 with `- A picture is worth 1,000 words`
 
