@@ -26,15 +26,15 @@ Redeem Your Reward: [https://merch.flare.io/](https://merch.flare.io/)
 
 
 ## Solve
-Visited the GitHub site and looked around at the content.
+I visited the GitHub site and looked around at the content.
 
-Copied down locally and moved to that directory:
+I then copied the repo down locally and moved to that directory on my machine:
 ```bash
 git clone https://github.com/swordnshield/d20-simulator.git
 cd d20-simulator
 ```
 
-Checked the logs:
+I then checked the Git logs:
 ```bash
 git log --format=fuller --all
 commit b6eea5a85ba41f982619b82b168628b56097fc52 (HEAD -> main, origin/main, origin/HEAD)
@@ -81,7 +81,7 @@ CommitDate: Mon Nov 10 21:20:12 2025 +0000
     Add README.md
 ```
 
-Noticed the `admin@bobshomepage.net` and visited the site. 
+I noticed the `admin@bobshomepage.net` on the first commit and visited the [https://bobshomepage.net](https://bobshomepage.net) site. 
 
 <img width="805" height="572" alt="Screenshot 2025-12-01 185935" src="https://github.com/user-attachments/assets/637b6d4c-5183-40f6-b955-e02dcd351cb7" />
 
@@ -96,7 +96,7 @@ User-agent: *
 Disallow: /sealed-chamber-deadbeef.html
 ```
 
-Visited `bobshomepage.net/sealed-chamber-deadbeef.html`.
+I then navigated to `bobshomepage.net/sealed-chamber-deadbeef.html`.
 
 <img width="704" height="870" alt="Screenshot 2025-12-01 190130" src="https://github.com/user-attachments/assets/49b0b028-093f-4c54-9bec-bee293f3fed0" />
 
