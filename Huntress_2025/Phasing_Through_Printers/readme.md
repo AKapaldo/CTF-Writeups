@@ -18,7 +18,7 @@ Here is some of the code I could dig up.
 > The password to the ZIP archive below is `phasing_through_printers`.
 
 ## Problem Type
-- Web command injection
+- Command Injection
 
 ## Solve
 Started off by trying to break out of the prompt with:
