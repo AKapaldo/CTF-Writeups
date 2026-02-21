@@ -12,7 +12,6 @@ You've found Cupid's AI chatbot that writes Valentine's messages. It contains 3 
 
 
 ## Problem Type
-- AI
 - Prompt Injection
 
 ## Solve
