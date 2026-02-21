@@ -28,7 +28,6 @@ The system has already been breached. Now prove you understand how.
 
 
 ## Problem Type
-- Web
 - Cookies
 
 
