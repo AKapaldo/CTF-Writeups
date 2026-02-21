@@ -13,7 +13,9 @@ He took a packet capture of some of the traffic but he can't make any sense of i
 For some reason, some of the traffic seems to be coming from someone's computer. Can you help us figure out what's going on?
 
 ## Problem Type
-- PCAP/Network Forensics
+- PCAP
+- Modbus
+- Industrial Control System (ICS)
 
 ## Solve
 Filter on Modbus, unit 38, source port 502
