@@ -9,7 +9,7 @@
 Don't be shy, show your emotions! Get emotional if you have to! Uncover the flag.
 
 ## Problem Type
-- Web command injection
+- Command Injection
 
 ## Solve
 Press F12
