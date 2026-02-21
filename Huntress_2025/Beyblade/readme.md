@@ -13,7 +13,6 @@ Sheesh! Some threat actor sure did let it rip on this host! We've been able to u
 > 2. This challenge has the flag MD5 hash value separated into chunks. You must uncover all of the different pieces and put them together with the flag{ and } suffix to submit.
 
 ## Problem Type
-- Forensics
 - Windows Registry
 
 ## Solve
