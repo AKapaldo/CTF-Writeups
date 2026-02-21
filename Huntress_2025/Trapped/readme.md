@@ -12,7 +12,6 @@ Well... I'm trapped. Feels like I'm in jail. Can you get the flag?
 > The flag is in the root directory at `/flag.txt`
 
 ## Problem Type
-- Binary Exploitation
 - CHROOT Escape
 
 ## Solve Option 1
