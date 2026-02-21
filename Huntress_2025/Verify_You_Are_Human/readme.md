@@ -20,8 +20,8 @@ My computer said I needed to update MS Teams, so that is what I have been trying
 
 ## Problem Type
 - Clickfix
-- PowerShell Malware
-- Python Malware
+- PowerShell
+- Python
 
 
 ## Solve
