@@ -15,7 +15,8 @@ and taking out... murlocs in Entra? and CyberChef!?
 I don't get it. You're the expert here! Not me!
 
 ## Problem Type
-- Azure Enumeration
+- M365
+- Entra
 
 ## Solve 1
 
