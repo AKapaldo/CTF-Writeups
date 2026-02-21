@@ -11,7 +11,7 @@ Oh wow, another web app interface for command-line tools that already exist!
 This one seems a little busted, though...
 
 ## Problem Type
-- Web command injection
+- Command Injection
 
 ## Solve
 From the initial YAML
