@@ -27,7 +27,6 @@ Ready your builds, champions. <br>
 Align your stats and claim what awaits. <br>
 
 ## Problem Type
-- Web
 - Javascript
 
 
