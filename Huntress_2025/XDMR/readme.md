@@ -12,7 +12,7 @@ why not have you use one! 😄
 A host that you protect had some strange alerts fire off... can you analyze and triage to find other malicious activity?
 
 ## Problem Type
-- MDR
+- UUEncoding
 - Chrome History Analysis
 
 ## Solve
