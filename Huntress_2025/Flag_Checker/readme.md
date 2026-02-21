@@ -11,7 +11,7 @@ We've decided to make this challenge really straight forward. All you have to do
 Juuuust make sure not to trip any of the security controls implemented to stop brute force attacks...
 
 ## Problem Type
-- Web timing attack
+- Timing Attack
 
 ## Solve
 Use Burp to send 1 character change at a time with intruder.
