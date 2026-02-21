@@ -21,7 +21,8 @@ Begin Your Descent: [http://gd56337fcs4bkqtk2l3mgtnxl6hhdw7qjgxiaxx34ghbgtf3md3j
 Claim the Prize: [https://merch.flare.io/](https://merch.flare.io/)
 
 ## Problem Type
-- AI
+- The Onion Router (TOR)
+- Prompt Injection
 
 
 ## Solve
