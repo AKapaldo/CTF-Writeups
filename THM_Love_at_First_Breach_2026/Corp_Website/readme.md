@@ -17,7 +17,6 @@ You can find the web application here: `http://MACHINE_IP:3000`
 
 
 ## Problem Type
-- Web
 - React2Shell (CVE--2025-55182)
 - CVE Exploit
 
