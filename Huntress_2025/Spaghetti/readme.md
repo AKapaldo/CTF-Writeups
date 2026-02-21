@@ -24,7 +24,7 @@ I'm sure you'll get more understanding of the questions below as you explore!
 > The ZIP archive password is `infected`.
 
 ## Problem Type
-- PowerShell Malware
+- PowerShell
 
 ## Solve 1
 Line 1500 has the filename (AYGIW.tmp)
