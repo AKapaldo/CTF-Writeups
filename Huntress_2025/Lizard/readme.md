@@ -20,7 +20,7 @@ We saw this strange PowerShell string on one of our hosts, can you investigate a
 > Please be sure to analyze these files within an isolated virtual machine.
 
 ## Problem Type
-- Cryptocurrency Malware
+- PowerShell
 
 ## Password
 > [!NOTE]
