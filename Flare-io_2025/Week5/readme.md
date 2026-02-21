@@ -27,8 +27,8 @@ Follow the trail and take what you can prove.
 
 
 ## Problem Type
-- Web
 - IDOR
+- The Onion Router (TOR)
 
 
 ## Solve
