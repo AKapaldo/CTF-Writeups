@@ -2,7 +2,7 @@
 
 |Category         |	Author                |
 |-----------------|-----------------------|
-| 🤖 AI         |TryHackMe      |
+|🤖 AI         |TryHackMe      |
 
 ## Challenge Prompt
 
