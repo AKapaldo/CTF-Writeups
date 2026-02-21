@@ -28,7 +28,7 @@ I started this one with a quick nmap using `nmap -p 3000 -T4 -A SITE_IP`
 
 
 I spent a lot of time playing with different things on the site, running FFUF, etc but I noticed this one is made with Next.js.
-I decided to run nuclei with `nuclei -u http://<SITE IP>:3000` to see if there were any vulnerabilities:
+I decided to run nuclei with `nuclei -u http://SITE_IP:3000` to see if there were any vulnerabilities:
 <img width="1348" height="491" alt="2026-02-14_23-48-03" src="https://github.com/user-attachments/assets/9d03a1e2-ab15-48ba-b8d8-9de932659728" />
 
 
