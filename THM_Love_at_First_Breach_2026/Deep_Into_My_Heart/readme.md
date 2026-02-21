@@ -19,7 +19,7 @@ You can find the web application here: `http://MACHINE_IP:5000`
 - Robots.txt
 
 ## Solve
-I started off with a quick nmap scan of this host and port using `nmap -p 5000 -T4 -A <IP Address>`.<br>
+I started off with a quick nmap scan of this host and port using `nmap -p 5000 -T4 -A IP_Address`.<br>
 The very fist thing I noticed was a `robots.txt` file with a disallowed entry:
 <img width="1355" height="435" alt="2026-02-14_17-03-15" src="https://github.com/user-attachments/assets/3fbca2ad-b45b-4ac8-be77-23c6ecb2eecf" />
 
@@ -38,7 +38,7 @@ This found an administrator subdirectory:
 <img width="1100" height="616" alt="2026-02-14_17-14-07" src="https://github.com/user-attachments/assets/32f818ff-a0ab-4594-b570-e8aef772ce1d" />
 
 
-On the `http://<SITE IP HERE>:5000/cupids_secret_vault/administrator` page we get a login in prompt:
+On the `http://SITE_IP:5000/cupids_secret_vault/administrator` page we get a login in prompt:
 <img width="579" height="435" alt="2026-02-14_17-14-52" src="https://github.com/user-attachments/assets/da55161f-0f80-4566-bcdd-ed80747a2f73" />
 
 
