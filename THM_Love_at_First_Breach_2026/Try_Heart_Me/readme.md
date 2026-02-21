@@ -12,7 +12,6 @@ You can access the web app here: `http://MACHINE_IP:5000`
 
 
 ## Problem Type
-- Web
 - JSON Web Token (JWT)
 
 ## Solve
