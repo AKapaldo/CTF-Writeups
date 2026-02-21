@@ -22,7 +22,7 @@ Redeem Your Reward: [https://merch.flare.io/](https://merch.flare.io/)
 
 
 ## Problem Type
-- OSINT
+- Git
 
 
 ## Solve
