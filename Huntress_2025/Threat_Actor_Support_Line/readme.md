@@ -13,6 +13,7 @@ Upload the files you want encrypted, and the service will start up its own hacke
 
 ## Problem Type
 - CVE Exploit
+- WinRAR (CVE-2025-8088)
 
 ## Solve
 Noticed the page said it was using WinRAR version 7.12.
