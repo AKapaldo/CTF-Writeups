@@ -24,8 +24,7 @@ The layers await, champion.<br>
 Unstack the mystery. Claim the prize.
 
 ## Problem Type
-- Fornesics
-- Image
+- Image Forensics
 
 
 ## Solve
