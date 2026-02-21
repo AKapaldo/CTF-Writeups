@@ -10,7 +10,7 @@ Dang, this track really hits the target! It sure does get loud though, headphone
 
 
 ## Problem Type
-- SSTV Hidden Image
+- Slow-Scan Television (SSTV)
 
 ## Solve
 Use [SSTV decoder](https://sstv-decoder.mathieurenaud.fr)
