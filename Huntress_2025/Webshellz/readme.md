@@ -11,7 +11,8 @@ The sysadmin reported that some unexpected files were being uploaded to the file
 As a security analyst, you have been tasked with reviewing the Sysmon, HTTP, and network traffic logs to help us identify the flags!
 
 ## Problem Type
-- PCAP/Network Forensics
+- PCAP
+- EVTX File (Windows Event Log)
 
 ## Password
 > [!NOTE]
@@ -46,6 +47,9 @@ From Base62
 
 ## Flag 3
 `flag{03638631595684f0c8c461c24b0879e6}`
+
+## Resources
+- [Online EVTX File Reader](https://omerbenamram.github.io/evtx/)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
