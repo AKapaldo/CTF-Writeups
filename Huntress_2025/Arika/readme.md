@@ -14,7 +14,6 @@ but it sounds like they are worried about some security concerns of their own!
 > The password for the ZIP archive below is `arika`.
 
 ## Problem Type
-- Web
 - Command Injection
 
 ## Solve
