@@ -1,4 +1,4 @@
-# ⚒️ Bytemancy 0
+# ⚒️ Bytemancy 1
 
 |Category         |	Author                |
 |-----------------|-----------------------|
