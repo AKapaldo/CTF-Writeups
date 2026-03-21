@@ -1,8 +1,8 @@
-# 📦 Bytemancy 0
+# ⚒️ Bytemancy 0
 
 |Category         |	Author                |
 |-----------------|-----------------------|
-|📦 Miscellaneous        |LT 'syreal' Jones    |
+|⚒️ Binary Exploitation       |LT 'syreal' Jones    |
 
 ## Challenge Prompt
 
