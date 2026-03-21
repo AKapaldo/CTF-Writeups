@@ -49,4 +49,3 @@ So we can connect to the machine using `nc` and then send the box the 3 `e` char
 When we do that, we are presented with the flag!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
