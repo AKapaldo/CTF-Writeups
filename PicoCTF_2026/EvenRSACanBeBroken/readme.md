@@ -21,6 +21,10 @@ What is interesting here is that `N` is normally 2 large random primes multiplie
 
 Unless... one of the primes is 2. If we look at our `N` we can see it is an even number and with that we can break this.
 
+You could also use [FactoDB](https://factordb.com/index.php) to figure out `p` and `q`:
+<img width="1905" height="391" alt="2026-03-28_19-42-10" src="https://github.com/user-attachments/assets/b1f02442-edfd-4b94-af14-bc1cf2e685ec" />
+
+So we can solve this with some Python:
 ```python
 # Import module depending on version this might be Crypto instead of Cryptodome for you.
 from Cryptodome.Util.number import long_to_bytes
@@ -40,6 +44,7 @@ q = N // p
 phi = (p - 1) * (q - 1)
 
 # The modular inverse to get the private key d.
+# You can also do this by importing inverse with long_to_bytes above and running d = inverse(e, phi)
 d = pow(e, -1, phi)
 
 # Decrypt to positive integer
