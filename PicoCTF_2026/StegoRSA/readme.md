@@ -1,8 +1,8 @@
-# 🔒 StegoRSA
+# 🔐 StegoRSA
 
 |Category         |	Author                |
 |-----------------|-----------------------|
-|🔒 Cryptography         |Yahaya Meddy        |
+|🔐 Cryptography         |Yahaya Meddy        |
 
 ## Challenge Prompt
 
