@@ -1,8 +1,8 @@
-# 🔒 Even RSA Can Be Broken???
+# 🔐 Even RSA Can Be Broken???
 
 |Category         |	Author                |
 |-----------------|-----------------------|
-|🔒 Cryptography         |Michael Crotty        |
+|🔐 Cryptography         |Michael Crotty        |
 
 ## Challenge Prompt
 
