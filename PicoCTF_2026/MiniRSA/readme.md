@@ -1,8 +1,8 @@
-# 🔒 Mini RSA
+# 🔐 Mini RSA
 
 |Category         |	Author                |
 |-----------------|-----------------------|
-|🔒 Cryptography         |Sara     |
+|🔐 Cryptography         |Sara     |
 
 ## Challenge Prompt
 
