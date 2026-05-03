@@ -7,6 +7,9 @@
 - 📦 Miscellaneous
 - 🕵️ OSINT
 - 🌐 Web
+- 🤖 AI
+- 🔈 Audio
+- 🔐 Cryptography
 
 
 ## Challenges
